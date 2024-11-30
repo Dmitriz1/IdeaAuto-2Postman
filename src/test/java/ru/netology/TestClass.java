@@ -33,5 +33,5 @@ public class TestClass {
     //            .then()
     //            .statusCode(200)
     //            .body("data", equalTo("some value"));
-    }
+    //}
 }
